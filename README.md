@@ -8,5 +8,6 @@
 
 **Legenda**
 
+
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
